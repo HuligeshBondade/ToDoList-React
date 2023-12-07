@@ -1,3 +1,8 @@
+# simple todo list application using react
+
+![image](https://github.com/HuligeshBondade/ToDoList-React/assets/107861136/b4f27213-9d14-42d2-882b-5f2fa9f2bff1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
